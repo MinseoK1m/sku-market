@@ -1,7 +1,9 @@
 # 풀잎장터
 * 2024-1학기 [캡스톤설계] 팀프로젝트
 * 2024.03 ~ 개발 중
-  * Flutter / Firebase / Figma
+* 개발 인원 : 4명
+* 나의 역할 : 관리자 페이지 개발
+* Flutter / Firebase / Figma
     
 * UI 디자인_Figma
 ![image](https://github.com/MinseoK1m/sku-market/assets/138808284/421df260-343d-43d8-bfa6-a99a2b7234fd)

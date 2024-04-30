@@ -1,16 +1,6 @@
 # capstone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/MinseoK1m/sku-market/assets/138808284/8203c576-b509-4736-8b7e-7789d0ed35ef)
+![image](https://github.com/MinseoK1m/sku-market/assets/138808284/139a770a-55e8-4d8b-a8a7-e59229668444)
+![image](https://github.com/MinseoK1m/sku-market/assets/138808284/d20058af-fdd6-427e-8fd3-a7dbfa6f501b)
+![image](https://github.com/MinseoK1m/sku-market/assets/138808284/2c6830b8-4b56-41d3-b0ab-1503a6461062)
